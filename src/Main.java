@@ -213,8 +213,6 @@ public class Main {
 
             System.out.print("Enter your choice: ");
 
-            System.out.print("Enter your choice: ");
-
             int choice = InputValidator.getInt(scanner);
 
             switch (choice) {

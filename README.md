@@ -61,3 +61,14 @@ BankingSystem/
 
 ```bash
 javac -d out src/*.java
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Customer Menu
+![Customer Menu](screenshots/customer-menu.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
